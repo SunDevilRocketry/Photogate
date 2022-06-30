@@ -1,0 +1,41 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 647676-3
+D Connector
+$ENDCMP
+#
+$CMP Earth
+D Power symbol creates a global label with name "Earth"
+K power-flag ground gnd
+F ~
+$ENDCMP
+#
+$CMP LMS8117AMP-3.3_NOPB
+D Linear Regulator
+$ENDCMP
+#
+$CMP RES_0603
+D Resistor
+$ENDCMP
+#
+$CMP SFH_3015_FA
+D Phototransistor
+$ENDCMP
+#
+$CMP SML-LX1206GC-TR
+D Green LED
+$ENDCMP
+#
+$CMP T491A106K010AT
+D capacitor 10microF
+$ENDCMP
+#
+$CMP TP
+D Test Point
+$ENDCMP
+#
+$CMP VSMY2853SL
+D IR Emitter
+$ENDCMP
+#
+#End Doc Library
